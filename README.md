@@ -5,8 +5,10 @@ This is an attempt at the beginnings of a catalogue of U.S. laws that may direct
 Consumers
 - [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III)
 
-Students
-- FERPA (parents exercise on behalf of students) and state equivalents like 
+Students (Note: parents may exercise on behalf of students)
+- [Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. s. 1232g or "FERPA"](https://www.law.cornell.edu/uscode/text/20/1232g) - Under FERPA, a school must provide a parent with an opportunity to inspect and review his or her child's education records within 45 days following its receipt of a request. A school is required to provide a parent with copies of education records, or make other arrangements, if a failure to do so would effectively prevent the parent from obtaining access to the records. 
+- State law implementations and equivalents, e.g.:
+  - [Florida Education Code Section 1002.22, Florida Statutes](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.22.html)
 
 Patients
 - Health Insurance Portability and Accountability Act (HIPAA)/Health Information Technology for Economic and Clinical Health Act (HITECH)
