@@ -5,7 +5,7 @@ This is an attempt at the beginnings of a catalogue of U.S. laws that may direct
 Consumers
 - [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III)
 - Other federal and state consumer protection laws?
-  - Massachussetts: [Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A/Section2)
+  - Massachusetts: [Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A/Section2)
 - Private company implementations, see, e.g.:
   - [Facebook Personal Data Request](https://www.facebook.com/help/contact/180237885820953)
   - [Google User Data Request](https://takeout.google.com/settings/takeout?pli=1) 
