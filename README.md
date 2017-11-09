@@ -11,7 +11,7 @@ Health Insurance Portability and Accountability Act (HIPAA)/Health Information T
 US Telecommunications Act of 1996, CPNI
 
 State Laws on Access to Personnel Files, see, e.g:
-- California
+- California:
 [Cal. Lab. Code § § 1198.5; 432](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=1198.5)
 Employers affected: All employers subject to wage and hour laws.
 Employee access to records: Employee or former employee has right to inspect at reasonable intervals any personnel records relating to performance or to a grievance proceeding. Employer need nto provide records regarding the investigation of a criminal offense, letters or reference, or certain other records. Employer must comply with only one request per year from former employees. This right ceases while a lawsuit brought by the employee based on a personnel matter is pending against the employer.
