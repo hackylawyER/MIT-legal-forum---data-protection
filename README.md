@@ -1,4 +1,4 @@
-MIT-legal-forum---data-protection
+# Data Subject Access Request Laws
  
 The beginnings of a catalogue of U.S. laws that may provide subject access rights to individuals. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
