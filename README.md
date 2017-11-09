@@ -1,8 +1,12 @@
 # Data Subject Access Request Laws
  
-This is an attempt at the beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals, organized by the category of individual, e.g., consumer, student, patient, etc. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
+This is an attempt at the beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals, organized by the category of individual, e.g., consumer, student, patient, etc. In the next phase, I would also like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
-Consumers
+Even from this initial assessment, it’s clear that the ability of an individual to access his/her data in the U.S. is an extremely burdensome and complicated undertaking. The same individual, when acting in a different role (e.g., consumer vs. employee) has different rights and different processes for accessing his/her data under the relevant legal framework and only from entities covered by or subject to that law. This is in contrast to other countries, e.g., such as EU member states, where individuals have a general right to access their data as a “data subject” irrespective of the category of data or the sector in which the data controller operates. 
+
+And even if the individual could effectively meet all of the distinct requirements to compile as much data as he/she is legally entitled to collect from covered entities under the various laws, what could that individual do with it? How could one build a meaningful personal data store?
+
+Consumers (Citizens?)
 - [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III) - Under the Fair and Accurate Credit Transactions Act (FACTA), an amendment to the FCRA passed in 2003, consumers have the right to receive a free copy of their consumer report from each credit reporting agency once a year. A consumer reporting agency must correct or, as the case may be, delete from a consumer's credit file the information that is found to be inaccurate or can no longer be verified. The consumer reporting agency is not required to remove accurate data from a consumer's file unless it is outdated. In general, negative information that is more than 7 years old (10 years for bankruptcies) must be removed from a consumer's file.
  
 - Other federal and state consumer protection laws?
