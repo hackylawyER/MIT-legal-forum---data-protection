@@ -2,7 +2,7 @@
  
 The beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
-Fair Credit Reporting Act (FCRA)
+Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"
 
 FERPA (parents exercise on behalf of students) and state equivalents like 
 
