@@ -3,7 +3,8 @@
 This is an attempt at the beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals, organized by the category of individual, e.g., consumer, student, patient, etc. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
 Consumers
-- [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III)
+- [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III) - Under the Fair and Accurate Credit Transactions Act (FACTA), an amendment to the FCRA passed in 2003, consumers have the right to receive a free copy of their consumer report from each credit reporting agency once a year. A consumer reporting agency must correct or, as the case may be, delete from a consumer's credit file the information that is found to be inaccurate or can no longer be verified. The consumer reporting agency is not required to remove accurate data from a consumer's file unless it is outdated. In general, negative information that is more than 7 years old (10 years for bankruptcies) must be removed from a consumer's file.
+ 
 - Other federal and state consumer protection laws?
   - Massachusetts: [Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleX/Chapter66A/Section2)
 - Private company implementations, see, e.g.:
