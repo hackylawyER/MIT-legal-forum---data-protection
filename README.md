@@ -1,4 +1,4 @@
-# MIT-legal-forum---data-protection
+MIT-legal-forum---data-protection
  
 The beginnings of a catalogue of U.S. laws that may provide subject access rights to individuals. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
@@ -10,8 +10,11 @@ Health Insurance Portability and Accountability Act (HIPAA)/Health Information T
 
 US Telecommunications Act of 1996, CPNI
 
+
 State Data Privacy Laws
-- MA Fair Information Practices Act (FIPA), MGL 66A
+
+
+MA Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)
 
 Private company implementations, see, e.g.,:
 - [Facebook Personal Data Request](https://www.facebook.com/help/contact/180237885820953)
