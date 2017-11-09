@@ -12,9 +12,7 @@ US Telecommunications Act of 1996, CPNI
 
 
 State Data Privacy Laws
-
-
-MA Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)
+- MA Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)
 
 Private company implementations, see, e.g.,:
 - [Facebook Personal Data Request](https://www.facebook.com/help/contact/180237885820953)
