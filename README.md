@@ -1,15 +1,17 @@
 # Data Subject Access Request Laws
  
-The beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
+This is an attempt at the beginnings of a catalogue of U.S. laws that may directly provide for, or else indirectly implicate, the subject access rights of individuals, organized by the category of individual, e.g., consumer, student, patient, etc. I'd like to explore the various actors, their roles, the rights of the data subject and the processes for, and consequences of, exercising those rights under each of these laws.
 
-Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"
+Consumers
+- [Fair Credit Reporting Act (15 U.S.C. § 1681 et seq) or "FCRA"](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III)
 
+Students
 FERPA (parents exercise on behalf of students) and state equivalents like 
 
+Patients
 Health Insurance Portability and Accountability Act (HIPAA)/Health Information Technology for Economic and Clinical Health Act (HITECH)
 
-US Telecommunications Act of 1996, CPNI
-
+Employees
 State Laws on Access to Personnel Files, see, e.g:
 - California:
 [Cal. Lab. Code § § 1198.5; 432](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=1198.5)
