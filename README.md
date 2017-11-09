@@ -10,8 +10,17 @@ Health Insurance Portability and Accountability Act (HIPAA)/Health Information T
 
 US Telecommunications Act of 1996, CPNI
 
+State Laws on Access to Personnel Files, see, e.g.
+- California
+Cal. Lab. Code § § 1198.5; 432
+Employers affected: All employers subject to wage and hour laws.
+Employee access to records: Employee or former employee has right to inspect at reasonable intervals any personnel records relating to performance or to a grievance proceeding. Employer need nto provide records regarding the investigation of a criminal offense, letters or reference, or certain other records. Employer must comply with only one request per year from former employees. This right ceases while a lawsuit brought by the employee based on a personnel matter is pending against the employer.
+Written request required: Yes. If employee requests file orally, employer must supply form for making request in writing.
+Conditions for viewing records: Employer must make records available no more than 30 days after receiving written request. Employee may view records at reasonable times, during break or nonwork hours. If records are kept off-site or employer does not make them available at the workplace, then employee must be allowed to view them at the storage location without loss of pay.
+Copying records: Employee also has a right to a copy of personnel records, within 30 days after making written request.
 
-State Data Privacy Laws
+
+Other State-Specific Laws
 - MA Fair Information Practices Act (FIPA) MGL 66A, Section 2 (Holders maintaining personal data system; duties)
 
 Private company implementations, see, e.g.,:
