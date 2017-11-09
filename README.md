@@ -11,7 +11,8 @@ Students (Note: parents may exercise on behalf of students)
   - [Florida Education Code Section 1002.22, Florida Statutes](http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=1000-1099/1002/Sections/1002.22.html)
 
 Patients
-- Health Insurance Portability and Accountability Act (HIPAA)/Health Information Technology for Economic and Clinical Health Act (HITECH)
+- Health Insurance Portability and Accountability Act (HIPAA), specifically the [HIPAA Privacy Rule, 45 CFR 160 and Subparts A and E of 45 CFR 164](https://www.law.cornell.edu/cfr/text/45/164.524), generally requires HIPAA covered entities (health plans and most health care providers) to provide individuals, upon request, with access to the protected health information (PHI) about them in one or more “designated record sets” maintained by or for the covered entity.
+- [Health Information Technology for Economic and Clinical Health Act (HITECH)](https://www.law.cornell.edu/uscode/text/42/17935) - Under the HITECH Act, patients have the right to request their health information in electronic form. The Act requires that any fee imposed to provide the electronic copy cannot exceed the labor and supply costs of responding to the request.
 
 Employees
 - State Laws on Access to Personnel Files, see, e.g:
